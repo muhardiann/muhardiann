@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhardiann&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhardiann&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
