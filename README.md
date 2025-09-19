@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your_username]&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhardiann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhardiann&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
