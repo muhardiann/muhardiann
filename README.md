@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhardiann&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[muhardiann]&theme=tokyonight" alt="GitHub Streak" />
 </p>
